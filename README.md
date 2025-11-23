@@ -38,11 +38,11 @@
 ### 📈 GitHub Stats
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChaitanyaDhiman&show_icons=true&theme=dark" alt="Chaitanya's GitHub Stats" style="width: 100%; max-width: 500px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=ChaitanyaDhiman&show_icons=true&theme=dark" alt="Chaitanya's GitHub Stats" style="width: 100%; max-width: 320px;">
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChaitanyaDhiman&theme=dark" alt="Chaitanya's GitHub Streak" style="width: 100%; max-width: 500px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChaitanyaDhiman&theme=dark" alt="Chaitanya's GitHub Streak" style="width: 100%; max-width: 320px;">
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaitanyaDhiman&theme=dark&show_icons=true&hide_border=false&layout=compact" alt="ChaitanyaDhiman's Top Languages" style="width: 100%; max-width: 500px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaitanyaDhiman&theme=dark&show_icons=true&hide_border=false&layout=compact" alt="ChaitanyaDhiman's Top Languages" style="width: 100%; max-width: 320px;">
 </div>
 
 ---
